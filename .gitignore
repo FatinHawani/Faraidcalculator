@@ -1,0 +1,31 @@
+# ===== FaraidCalculator (Lightweight Django Project) =====
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django specific (no DB yet)
+*.log
+/static/
+.media/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore migrations (not using DB yet)
+**/migrations/
+!**/migrations/__init__.py
+
