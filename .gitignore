@@ -29,5 +29,5 @@ Thumbs.db
 **/migrations/
 !**/migrations/__init__.py
 
-faraid.bat
+runserver.bat
 
