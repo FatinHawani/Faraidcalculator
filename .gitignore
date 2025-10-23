@@ -31,3 +31,5 @@ Thumbs.db
 
 runserver.bat
 
+node_modules
+build/
